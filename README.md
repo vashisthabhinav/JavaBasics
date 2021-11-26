@@ -1,2 +1,2 @@
 # JavaBasics
-Basic Java Programming
+These codes are the basics and the building blocks of java. 
